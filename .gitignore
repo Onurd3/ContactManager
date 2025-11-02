@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local data
+*.db
+*.sqlite
+*.db3
+*.json
